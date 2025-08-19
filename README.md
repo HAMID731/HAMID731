@@ -1,4 +1,4 @@
-## **HI, i'm Hamid**
+## *HI, i'm Hamid**
 
 🧠 Aspiring Software Engineer
 
@@ -6,26 +6,26 @@
 
 👨‍💻 Student At semicolonafrica
 
-      - Languages: Python, JavaScript, HTML, CSS
+      - **Languages**: Python, JavaScript, HTML, CSS
       
-      - Frameworks & Libraries: React, Node.js, Express.js
+      - **Frameworks & Libraries**: React, Node.js, Express.js
       
-      - Databases: PostgreSQL, MongoDB
+      - **Databases**: PostgreSQL, MongoDB
       
-      - Tools: Git, GitHub, VS Code, Docker (Learning)
+      - **Tools:** Git, GitHub, VS Code, Docker (Learning)
 
 
 
 ##  💡 My Mission:
 
-I'm a passionate problem-solver with a love for turning complex challenges into elegant solutions.
+I'm a passionate **problem-solver** with a love for turning complex challenges into elegant solutions.
 
-As a software engineer, I'm driven to build user-friendly applications that simplify people's lives and create new possibilities. 
+As a **software engineer**, I'm driven to build **user-friendly applications** that simplify people's lives and create new possibilities. 
 
-I believe that every line of code is a puzzle waiting to be solved, and I'm excited to continue building, learning,
+I believe that every line of code is a puzzle waiting to be solved, and I'm excited to continue **building**, **learning,**
 
-and collaborating in the tech world.
+and c**ollaborating** in the tech world.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/abdulhamid-abari-766b98362/])
