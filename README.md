@@ -33,7 +33,7 @@ and **collaborating** in the tech world.
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[abdulhamid-abari-766b98362])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[abdulhamid-abari-766b98362])  https://www.linkedin.com/in/abdulhamid-abari-766b98362/
 
 # 💻 Tech Stack
 ### My Tech Stack
