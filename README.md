@@ -6,13 +6,13 @@
 
 👨‍💻 Student At semicolonafrica
 
-      - **Languages**: Python, JavaScript, HTML, CSS
+      - Languages: Python, JavaScript, HTML, CSS
       
-      - **Frameworks & Libraries**: React, Node.js, Express.js
+      - Frameworks & Libraries: React, Node.js, Express.js
       
-      - **Databases**: PostgreSQL, MongoDB
+      - Databases: PostgreSQL, MongoDB
       
-      - **Tools:** Git, GitHub, VS Code, Docker (Learning)
+      - Tools: Git, GitHub, VS Code, Docker (Learning)
 
 
 
