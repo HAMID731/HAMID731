@@ -1,4 +1,4 @@
-## *HI, i'm Hamid**
+## HI, i'm *Hamid*
 
 🧠 Aspiring Software Engineer
 
@@ -24,8 +24,9 @@ As a **software engineer**, I'm driven to build **user-friendly applications** t
 
 I believe that every line of code is a puzzle waiting to be solved, and I'm excited to continue **building**, **learning,**
 
-and c**ollaborating** in the tech world.
+and **collaborating** in the tech world.
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/abdulhamid-abari-766b98362/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[abdulhamid-abari-766b98362])
+
