@@ -14,7 +14,9 @@
       
       - Tools: Git, GitHub, VS Code, Docker (Learning)
 
-**My Mission:**
+
+
+#   My Mission:
 
 I'm a passionate problem-solver with a love for turning complex challenges into elegant solutions.
 
@@ -23,5 +25,7 @@ As a software engineer, I'm driven to build user-friendly applications that simp
 I believe that every line of code is a puzzle waiting to be solved, and I'm excited to continue building, learning,
 
 and collaborating in the tech world.
+
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/abdulhamid-abari-766b98362/])
