@@ -1,4 +1,4 @@
-## HI, i'm Hamid
+## **HI, i'm Hamid**
 
 🧠 Aspiring Software Engineer
 
@@ -16,7 +16,7 @@
 
 
 
-#  💡 My Mission:
+##  💡 My Mission:
 
 I'm a passionate problem-solver with a love for turning complex challenges into elegant solutions.
 
