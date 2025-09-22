@@ -6,7 +6,7 @@
 
 👨‍💻 Student At semicolonafrica
 
-      - Languages: Python, JavaScript, HTML, CSS
+      - Languages: Java, JavaScript, HTML, CSS
       
       - Frameworks & Libraries: React, Node.js, Express.js
       
